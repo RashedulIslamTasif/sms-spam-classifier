@@ -54,7 +54,6 @@ This project builds and compares two text classification models — **Support Ve
 |---|---|
 | SVM (LinearSVC, tuned) | ~97.9% |
 
-*(Add your Naive Bayes results here once finalized.)*
 
 ## Tech Stack
 
