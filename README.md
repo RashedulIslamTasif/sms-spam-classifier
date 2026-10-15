@@ -35,7 +35,6 @@ This project builds and compares two text classification models — **Support Ve
 
 5. **Model Training**
    - **SVM (LinearSVC)** — trained via a `Pipeline` combining TF-IDF vectorization and a linear SVM classifier
-   - **Multinomial Naive Bayes** — trained as a comparison baseline model
 
 6. **Hyperparameter Tuning**
    - Used `GridSearchCV` to tune the SVM's `C` parameter
